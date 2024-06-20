@@ -54,7 +54,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or feedback, feel free to reach out:
 
 - **Email**: sebastianjabson07@gmail.com
-- **GitHub**: [your-username](https://github.com/sebastian709)
+- **GitHub**: [sebastian709](https://github.com/sebastian709)
 
 ---
 
